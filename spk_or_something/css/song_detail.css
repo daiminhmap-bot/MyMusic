@@ -1,0 +1,68 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.song-info {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.song-cover {
+    display: block;
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto 20px auto;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+audio {
+    display: block;
+    margin: 0 auto 40px auto;
+}
+
+.lyrics {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.lyrics h5 {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.song-meta {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #ffffff;
+    border-left: 5px solid #198754;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.song-meta h5 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #000;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 60px;
+}

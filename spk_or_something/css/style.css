@@ -1,0 +1,151 @@
+/* GOBAL */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: sans-serif;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+/* Header */
+/* Navigation Bar */
+header {
+    background-color: #347433 !important;
+    color: #ffff;
+    overflow: hidden;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+header .navbar-header {
+    background-color: #347433 !important;
+    margin-bottom: 4.5rem;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand:focus {
+    color: #fff;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    opacity: 0.5;
+    margin: 0 15px;
+    text-align: right;
+}
+
+.nav-link:hover {
+    opacity: 0.8;
+    color: #fff;
+}
+
+.nav-link:focus {
+    opacity: 0.9;
+    color: #fff;
+}
+
+.navbar-toggler {
+    border: 1px solid #ffff;
+
+}
+
+.navbar-toggler:focus {
+    box-shadow: 4px 3px 0px 0px rgba(255, 255, 255, 0.5);
+}
+
+.navbar-toggler>i {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+/* Titel */
+.colored section{
+    background-color: #347433;
+    color:white;
+}
+
+.white-section {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #000;
+}
+/* Testimonial */
+.carousel-item {
+    text-align: center;
+}
+
+.carousel-item>h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.carousel-item>img {
+    width: 10%;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.carousel-item>em {
+    font-weight: bold;
+}
+
+/* Playlist */
+.playlist{
+    text-align: center;
+}
+
+/* Footer */
+.footer{    
+    text-align: center;
+    background-color: #347433;
+}
+.name{
+    color: aquamarine;
+}
+
+.twitter{
+    color: cyan;
+}
+
+.facebook{
+    color: #A1E3F9;
+}
+
+.instagram{
+    color: yellow;
+}
+
+.gmail{
+    color: red;
+}
+.copyright{
+    color:#ffff;
+    font-family: sans-serif;
+    font-weight: lighter;
+}

@@ -1,0 +1,63 @@
+/* Global */
+h1 {
+    font-weight: 900;
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+    line-height: 1.5;
+    color: #347433;
+    margin-bottom: 50px;
+}
+
+.colored-section {
+    background-color: gray;
+    color: white;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #181C14;
+}
+
+/* Form */
+
+.signup {
+    border: 2.5px solid #121212;
+    padding: 6.5rem;
+    width: 650px;
+    margin: 0;
+    background-color: #121212;
+    color: white;
+}
+
+
+input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 4px;
+    border-radius:17px;
+}
+.submit{
+    background-color: #D3ECCD;
+    border: none;
+    margin-top: 30px;
+    padding: 10px 10px;
+}
+
+.submit:hover{
+    box-shadow: 4px 5px 3px 1px rgba(250, 255, 255, 0.5);
+    background-color: #347433;
+}
+
+a{
+    margin: 17px;
+    text-decoration: none;
+    color:#B9E5E8;
+}
+.form-floating>.form-control, .form-floating>.form-control-plaintext{
+    padding:15px 15px; 
+}
