@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "title": "See You Again",
+        "artist": "Tyler, The Creator",
+        "image":"image/idk",
+        "album": "Flower Boy"
+    },
+    {
+        "id": 2,
+        "title": "Nights",
+        "artist": "Frank Ocean",
+        "image":"image/idk",
+        "album": "Blonde"
+    },
+    {
+        "id": 3,
+        "title": "Alright",
+        "artist": "Kendrick Lamar",
+        "image":"image/alr",
+        "album": "To Pimp a Butterfly"
+    },
+    {
+        "id": 4,
+        "title": "Self Control",
+        "artist": "Frank Ocean",
+        "image":"image/idk",
+        "album": "Blonde"
+    },
+    {
+        "id": 5,
+        "title": "LOVE.",
+        "artist": "Kendrick Lamar",
+        "image":"image/idk",
+        "album": "DAMN."
+    },
+    {
+        "id": 6,
+        "title": "Best Part",
+        "artist": "Daniel Caesar",
+        "image":"image/idk",
+        "album": "Freudian"
+    },
+    {
+        "id": 7,
+        "title": "Biking",
+        "artist": "Frank Ocean",
+        "image":"image/idk",
+        "album": "Biking (Single)"
+    },
+    {
+        "id": 8,
+        "title": "EARFQUAKE",
+        "artist": "Tyler, The Creator",
+        "image":"image/idk",
+        "album": "IGOR"
+    },
+    {
+        "id": 9,
+        "title": "SUGAR",
+        "artist": "BROCKHAMPTON",
+        "image":"image/idk",
+        "album": "GINGER"
+    },
+    {
+        "id": 10,
+        "title": "After Dark",
+        "artist": "Drake",
+        "image":"image/idk",
+        "album": "Scorpion"
+    },
+    {
+        "id": 11,
+        "title": "C U Girl",
+        "artist": "Steve Lacy",
+        "image":"image/idk",
+        "album": "Steve Lacy's Demo"
+    },
+    {
+        "id": 12,
+        "title": "Location",
+        "artist": "Khalid",
+        "image":"image/idk",
+        "album": "American Teen"
+    },
+    {
+        "id": 13,
+        "title": "Godspeed",
+        "artist": "Frank Ocean",
+        "image":"image/idk",
+        "album": "Blonde"
+    },
+    {
+        "id": 14,
+        "title": "Find Your Love",
+        "artist": "Drake",
+        "image":"image/idk",
+        "album": "Thank Me Later"
+    },
+    {
+        "id": 15,
+        "title": "She",
+        "artist": "Tyler, The Creator ft. Frank Ocean",
+        "image":"image/idk",
+        "album": "Goblin"
+    },
+    {
+        "id": 16,
+        "title": "Dark Red",
+        "artist": "Steve Lacy",
+        "image":"image/idk",
+        "album": "Steve Lacy's Demo"
+    },
+    {
+        "id": 17,
+        "title": "Rex Orange County",
+        "artist": "Loving Is Easy",
+        "image":"image/idk",
+        "album": "Apricot Princess"
+    },
+    {
+        "id": 18,
+        "title": "Let’s Get Lost",
+        "artist": "G-Eazy ft. Devon Baldwin",
+        "image":"image/idk",
+        "album": "These Things Happen"
+    },
+    {
+        "id": 19,
+        "title": "Hold On, We're Going Home",
+        "artist": "Drake",
+        "image":"image/idk",
+        "album": "Nothing Was the Same"
+    },
+    {
+        "id": 20,
+        "title": "Thinkin Bout You",
+        "artist": "Frank Ocean",
+        "image":"image/idk",
+        "album": "Channel Orange"
+    },
+    {
+        "id": 21,
+        "title": "48",
+        "artist": "Tyler, The Creator",
+        "image":"image/idk",
+        "album": "Wolf"
+    },
+    {
+        "id": 22,
+        "title": "Pretty",
+        "artist": "The Weeknd",
+        "image":"image/idk",
+        "album": "Kiss Land"
+    },
+    {
+        "id": 23,
+        "title": "Sky",
+        "artist": "Playboi Carti",
+        "image":"image/idk",
+        "album": "Whole Lotta Red"
+    },
+    {
+        "id": 24,
+        "title": "Think About Me",
+        "artist": "DPR IAN",
+        "image":"image/idk",
+        "album": "Moodswings In This Order"
+    },
+    {
+        "id": 25,
+        "title": "WUSYANAME",
+        "artist": "Tyler, The Creator",
+        "image":"image/idk",
+        "album": "Call Me If You Get Lost"
+    }
+]
