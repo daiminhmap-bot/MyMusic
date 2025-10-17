@@ -1,4 +1,4 @@
-const detailContainer = document.querySelector('.detail-container')
+const detailContainer = document.querySelector('.detail')
 
 const getDetailMusic = async () =>{
     const path = new URLSearchParams(window.location.search);
@@ -7,6 +7,9 @@ const getDetailMusic = async () =>{
     const data = await response.json();
     const findMusicId = data.find(item => item.id.toString()=== musicId.toString())
 
-    detailContainer.innerHTML
+    detailContainer.innerHTML = `
+    
+    
+    `
 }
 getDetailMusic
