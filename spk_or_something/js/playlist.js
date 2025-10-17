@@ -1,17 +1,26 @@
-const fetchData = async() =>{
-    let response = await fetch("../music.json")
-    let data = await response.json();
+const musiclist = document.querySelector('.musiclist');
 
-    let musicList = document.querySelector("#music-list");
+const getData = async () => {
+    const response = await fetch('./data/music.json');
+    const data = await response.json();
 
-    musicList.innerHTML = data.map(item =>{
-        return`
-            <div class="music-list">
-            <img scr="${item.image}" alt="${item.title}">
-            <h2>${item.title}<h2/>
-            <p>${item.artist}<p/>
-            <div/>
-        `
-    }).join("");
+    if (data) {
+        musiclist.innerHTML = data.map(item => {
+            return `
+            <div class="song-item col-3">
+                <div class="card p-0 mx-2">
+                    <img src="${item.img}" class="card-img-top w-100 h-50" alt="${item.title} By : ${item.artist}">
+                    <div class="card-body">
+                        <h5 class="card-title">${item.title}</h5>
+                        <p class="card-text">By : ${item.artist}</p>
+                        <a href="./song_detail_tyler.html" class="btn btn-success btn-lg w-100 the-shadow">Listen</a>
+                    </div>
+                </div>
+            </div>
+                `
+
+        })
+    }
 }
-fetchData()
+
+getData();
